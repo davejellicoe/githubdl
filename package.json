@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/davejellicoe/githubdl/issues"
   },
-  "homepage": "https://github.com/davejellicoe/githubdl#readme"
+  "homepage": "https://github.com/davejellicoe/githubdl#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
 }
