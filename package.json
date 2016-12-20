@@ -1,0 +1,23 @@
+{
+  "name": "githubdl",
+  "version": "1.0.0",
+  "description": "github downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davejellicoe/githubdl.git"
+  },
+  "keywords": [
+    "github",
+    "downloader"
+  ],
+  "author": "dave j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davejellicoe/githubdl/issues"
+  },
+  "homepage": "https://github.com/davejellicoe/githubdl#readme"
+}
